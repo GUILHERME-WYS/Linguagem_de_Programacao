@@ -17,6 +17,6 @@ public class Main {
         System.out.println("Moto ligada");
         System.out.println("bibip");
         System.out.println("Moto desligada");
-        System.out.println("boom");
+        System.out.println("boomm");
     }
 }
