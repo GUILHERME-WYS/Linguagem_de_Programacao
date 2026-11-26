@@ -1,3 +1,4 @@
+package Exercicio2;
 public class Tipo {
     String nome = "";
 

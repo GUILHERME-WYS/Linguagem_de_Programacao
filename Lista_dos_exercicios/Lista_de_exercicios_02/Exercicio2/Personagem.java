@@ -1,3 +1,4 @@
+package Exercicio2;
 public class Personagem {
     String nome = "";
     int vida = 0;
